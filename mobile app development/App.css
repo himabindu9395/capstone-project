@@ -1,0 +1,163 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+#mainDiv {
+  width: 800px;
+  height: 500px;
+  background-color: #fefffe;
+  margin-top: 0px;
+}
+
+
+#circleDiv1 {
+  margin-left: 100px;
+  width: 180px;
+  height: 180px;
+  border-radius: 180px;
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+  transform: rotate(-25deg);
+  float: left;
+}
+
+
+
+#circleDiv1 hr {
+  margin-top: -5px;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-bottom: 16px;
+  transform: rotate(-20deg);
+  height: 6px;
+  background-color: #1849b6;
+}
+
+
+#circleDiv2 {
+  width: 180px;
+  height: 180px;
+  border-radius: 180px;
+  background-color: rgb(78, 5, 249);
+  overflow: hidden;
+  float: right;
+}
+
+
+#DIV1 {
+  background-image: url("house.jpg"); /* Add House Image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: -230px;
+  margin-top: 260px;
+  width: 230px;
+  height: 210px;
+  border-radius: 10px;
+  background-color: rgb(254, 101, 18);
+  float: left;
+}
+
+
+#DIV2 {
+  background-image: url("women.jpg"); /* Add Women Image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  margin-top: 90px;
+  margin-left: -60px;
+  width: 280px;
+  height: 290px;
+  border-radius: 10px;
+  background-color: brown;
+  float: left;
+}
+
+
+#DIV3 {
+  margin-top: -350px;
+  margin-right: 90px;
+  width: 250px;
+  height: 290px;
+  border-radius: 10px;
+  background-color: #f2f2f2;
+  float: right;
+}
+
+
+#DIV3 h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  padding-top: 20px;
+  padding-left: 50px;
+}
+#DIV3 p {
+  padding-top: 10px;
+  text-align: left;
+  font-size: 12.5px;
+  padding-left: 50px;
+}
+
+
+#DIV3 button {
+  background-color: #1849b6;
+  color: #f2f2f2;
+  border: none;
+  border-radius: 20px;
+  height: 35px;
+  width: 130px;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+
+.Div73 {
+  width: 200px;
+  height: 200px;
+  background-color: #c8e9e1;
+}
+
+.Div5 h4 {
+  text-align: center;
+  display: block;
+  margin-top: 80px;
+  color: #ced6d8;
+}
+h4 u {
+  color: #c8e9e1;
+}
+
+
+#c{
+	background: red;
+}
+
+#div1{
+	height: 1000px;
+	width: 90%;
+	background:olive;
+}
+
+#div2{
+	height: 1000px;
+	width: 90%;
+	background:gold;
+}
+#div3{
+	height: 1000px;
+	width: 90%;
+	background:green;
+}
+
+#div4{
+	height: 1000px;
+	width: 90%;
+	background:hotpink;
+}
+#div5{
+	height: 1000px;
+	width: 90%;
+	background:whitesmoke;
+}
